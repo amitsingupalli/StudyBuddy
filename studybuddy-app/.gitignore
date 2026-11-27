@@ -53,3 +53,6 @@ prompt
 server.log
 # Skills directory
 /skills/
+# local SQLite database (created by `prisma db push`, then auto-seeded)
+/db/*.db
+/db/*.db-journal
