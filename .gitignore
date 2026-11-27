@@ -31,3 +31,6 @@ studybuddy-app/.next/
 studybuddy-app/.env
 studybuddy-app/*.log
 studybuddy-app/*.tsbuildinfo
+
+# sandbox workspace copy of the Next.js app (canonical copy lives in studybuddy-app/)
+workspace-*/
