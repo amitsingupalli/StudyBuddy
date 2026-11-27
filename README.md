@@ -6,6 +6,11 @@ Built for the *AI + Java Hackathon — Problem Statement #07* (LangGraph + Sprin
 
 ![Dashboard](docs/screenshots/dashboard.png)
 
+> **Next.js app:** the self-contained product demo (landing page + Dashboard, Doubt Solver,
+> Planner, Quiz Arena and Notes, with its own API routes and Prisma/SQLite store) lives in
+> [`studybuddy-app/`](studybuddy-app/README.md). It runs with zero credentials and upgrades
+> to conversational answers when an OpenAI-compatible key is provided.
+
 ---
 
 ## What works today

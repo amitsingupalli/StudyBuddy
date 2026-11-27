@@ -24,3 +24,10 @@ data/demo/*.pdf
 # Secrets
 .env
 .env.local
+
+# Next.js demo app (studybuddy-app) local state
+studybuddy-app/node_modules/
+studybuddy-app/.next/
+studybuddy-app/.env
+studybuddy-app/*.log
+studybuddy-app/*.tsbuildinfo
